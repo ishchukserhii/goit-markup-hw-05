@@ -622,3 +622,33 @@ textarea:focus{
     border-color: #4d5ae5;
 }
 
+
+.lable-checkbox{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.modal-lable span{
+border-radius: 2px;
+border: 1px solid rgba(46, 47, 66, 0.4);
+height: 16px;
+width: 16px;
+display: flex;
+align-content: center;
+justify-content: center;
+align-items: center;
+margin: 8px;
+fill: transparent;
+}
+
+.link-privacy-police{
+line-height: 133%;
+text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #4d5ae5;
+}
+.input-checkbox:checked + .lable-checkbox span{
+fill: #f4f4fd;
+background-color: #404bbf;
+}
