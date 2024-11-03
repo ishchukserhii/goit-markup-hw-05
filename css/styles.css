@@ -550,6 +550,7 @@ cursor: pointer
 
 
 
+
 .backdrop{
 width: 100%;
 height: 100%;
@@ -650,7 +651,7 @@ font-size: 12px;
 line-height: 1.17;
 letter-spacing: 0.04em;
 color: #8e8f99;
-display: block;
+
 margin-bottom: 4px;
 
 }
