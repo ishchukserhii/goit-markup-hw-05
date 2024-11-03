@@ -450,7 +450,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .container-footer{
     display: flex;
     align-items: baseline;
-    gap: 80px;
+    justify-content: space-between;
 }
 .footer-logo{
     font-family: "Raleway", sans-serif;
@@ -495,6 +495,9 @@ margin-bottom: 16px;
     gap: 16px;
 }
 
+.footer-subscribe{
+    
+}
 .titel-subscribe{
 font-weight: 500;
 font-size: 16px;
