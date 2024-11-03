@@ -635,7 +635,7 @@ textarea:focus{
 
 
 .lable-checkbox{
-    display: inline-flex; 
+    display: flex;
     align-content: center;
     justify-content: center;
     align-items: center;
