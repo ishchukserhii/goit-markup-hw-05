@@ -698,3 +698,6 @@ transform: translate(-50%);
 .user-comment-input{
     padding: 8px 16px;
 }
+.user-privacy-span{
+    display: inline-flex; 
+}
