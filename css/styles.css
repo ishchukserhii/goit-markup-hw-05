@@ -635,7 +635,7 @@ textarea:focus{
 
 
 .lable-checkbox{
-    display: flex;
+    display: inline-flex; 
     align-content: center;
     justify-content: center;
     align-items: center;
@@ -697,7 +697,4 @@ transform: translate(-50%);
 }
 .user-comment-input{
     padding: 8px 16px;
-}
-.user-privacy-span{
-    display: inline-flex; 
 }
